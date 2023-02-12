@@ -6,7 +6,7 @@
 
 ##
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jerffeson-Mauricio&theme=neon-dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerffeson-Mauricio&show_icons=true&theme=radical)
 
 
 <div style="display: inline_block"><br>
